@@ -14,7 +14,7 @@
 - nanotech
 
 🌱 I’m currently learning how to do basic HTML (Wordpress plug ins) coding, UX design, and technical copywriting.
-💞️ I’m looking to collaborate on anything. There's a lot I want ot learn
+💞️ I’m looking to collaborate on anything. There's a lot I want to learn!
 📫 How to reach me elk_moon@live.com or @sorenable on Twitter
 
 <!---
